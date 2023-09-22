@@ -1,6 +1,6 @@
 # Movie Search App
 
-![App Screenshot](![op](https://github.com/ankitaludbe/Movie-Searching-App-using-React/assets/86849431/812f5302-0ae8-4727-9e4e-ee15ccd05f6b)
+![App Screenshot](!(https://github.com/ankitaludbe/Movie-Searching-App-using-React/assets/86849431/812f5302-0ae8-4727-9e4e-ee15ccd05f6b)
 )
 
 ## Description
@@ -21,7 +21,7 @@ The Movie Search App is a user-friendly web application built using React that a
    npx tailwindcss init -p
    ```
 5. Add the paths to all of your template files in your tailwind.config.js file.
-  ```
+   ```
   export default {
   content: [
     "./index.html",
@@ -32,7 +32,7 @@ The Movie Search App is a user-friendly web application built using React that a
   },
   plugins: [],
 } 
-```
+  ```
 6. Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
    ```
    @tailwind base;
