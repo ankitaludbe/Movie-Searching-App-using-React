@@ -1,7 +1,6 @@
 # Movie Search App
 
-![App Screenshot](!(https://github.com/ankitaludbe/Movie-Searching-App-using-React/assets/86849431/812f5302-0ae8-4727-9e4e-ee15ccd05f6b)
-)
+![op](https://github.com/ankitaludbe/Movie-Searching-App-using-React/assets/86849431/c1e37435-3881-4877-a3c2-c9fcadc3fb92)
 
 ## Description
 
