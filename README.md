@@ -38,7 +38,8 @@ The Movie Search App is a user-friendly web application built using React that a
    @tailwind components;
    @tailwind utilities;
    ```
-7.  Run your build process with npm run dev.
+7. Ask for the API key from the omdbapi site 
+8.  Run your build process with 
     ```npm run dev```
 
 ## Technologies Used
@@ -46,5 +47,5 @@ The Movie Search App is a user-friendly web application built using React that a
 - React
 - JavaScript
 - CSS
-- [Movie Database API](https://www.omdbapi.com/)
+- [Movie Database API(omdbapi)](https://www.omdbapi.com/)
 
